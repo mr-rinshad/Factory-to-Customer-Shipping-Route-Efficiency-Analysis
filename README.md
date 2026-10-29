@@ -66,8 +66,8 @@ The project was developed using Python, Pandas, Plotly, and Streamlit to transfo
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone "https://github.com/mr-rinshad/Factory-to-Customer-Shipping-Route-Efficiency-Analysis.git"
+cd Factory-to-Customer-Shipping-Route-Efficiency-Analysis
 ```
 
 ### 2. Install the Required Libraries
